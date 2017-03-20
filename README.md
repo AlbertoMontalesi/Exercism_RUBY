@@ -9,8 +9,9 @@
 
 - [ ] Read String Questions in Interviews.
   - Using a few sentences, describe what you've learned.
-- [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
+- [*] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
   - Using a few sentences, describe what you've learned.
+    By using memoization we can speed up our program by storing results of functions that will be repeted multiple times.         Instead of running the function each time we store the result and we recall it later when needed.
 - [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
   - Using a few sentences, describe what you've learned.
 
