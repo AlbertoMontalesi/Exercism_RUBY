@@ -21,7 +21,7 @@
   - Can you memorize one algorithm? What is it?
 - [ x] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
   - Using a few sentences, describe what you've learned.
-    - the importance of sorting is to allow faster searches. we can classify them by time and space complexity, by stability and by internal and external sort
+    - the importance of sorting is to allow faster searches. we can classify them by time and space complexity, by stability and by internal and external sort and recursive and non recursive 
 - [ ] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
   - Using a few sentences, describe what you've learned
 
